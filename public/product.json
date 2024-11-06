@@ -1,0 +1,145 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/35XPrSQ/Dell-XPS-13.jpg",
+      "category": "Laptops",
+      "price": 999,
+      "description": "13-inch laptop with an InfinityEdge display and 10th Gen Intel Core processor.",
+      "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13-inch FHD"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "Apple MacBook Air",
+      "product_image": "https://i.ibb.co.com/1bkdydR/Apple-Mac-Book-Air.jpg",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Powerful and lightweight laptop with the Apple M1 chip.",
+      "specification": ["Apple M1 Chip", "8GB RAM", "256GB SSD", "13-inch Retina Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/tLHTZY9/HP-Spectre-x360.jpg",
+      "category": "Laptops",
+      "price": 1199,
+      "description": "2-in-1 convertible laptop with a touchscreen display and excellent battery life.",
+      "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13-inch 4K Touchscreen"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/JHWq1YQ/Samsung-Galaxy-S21.jpg",
+      "category": "Phones",
+      "price": 799,
+      "description": "Flagship smartphone with an amazing camera and powerful performance.",
+      "specification": ["Exynos 2100", "8GB RAM", "128GB Storage", "6.2-inch Dynamic AMOLED"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 5,
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/3Fs1Bhz/i-Phone-13-pro.jpg",
+      "category": "Phones",
+      "price": 999,
+      "description": "Experience exceptional performance with the new A15 Bionic chip and ProMotion display.",
+      "specification": ["A15 Bionic", "6GB RAM", "128GB Storage", "6.1-inch Super Retina XDR"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 6,
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/yRhFFgD/Apple-watch-series7.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "Stay connected and monitor your health with advanced tracking features.",
+      "specification": ["GPS + Cellular", "45mm Display", "Heart Rate Monitor"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 7,
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/mRYwYMn/Samsung-Galaxy-Watch-4.jpg",
+      "category": "Smart Watches",
+      "price": 249,
+      "description": "Advanced health monitoring and fitness tracking with Wear OS.",
+      "specification": ["Wear OS", "44mm Display", "Body Composition Measurement"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 8,
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/q9T0PVN/Anker-Power-Core-10000.jpg",
+      "category": "Power Banks",
+      "price": 50,
+      "description": "Portable high-speed charging power bank with 10000mAh capacity.",
+      "specification": ["10000mAh", "Fast Charging", "Lightweight"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 9,
+      "product_title": "RAVPower 20000mAh",
+      "product_image": "https://i.ibb.co.com/7Xyw21w/RAVPower-20000m-Ah.jpg",
+      "category": "Power Banks",
+      "price": 55,
+      "description": "Powerful and compact power bank with high capacity and fast charging.",
+      "specification": ["20000mAh", "Dual USB Output", "Fast Charging"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "Belkin 20W USB-C Charger",
+      "product_image": "https://i.ibb.co.com/Xzy1MSR/Belkin-20-W-USB-C-Charger.jpg",
+      "category": "Chargers",
+      "price": 52,
+      "description": "Compact 20W charger with USB-C Power Delivery for fast charging.",
+      "specification": ["20W", "USB-C", "Power Delivery"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+        "product_id": 11,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co.com/yFH9q65/Lenovo-Think-Pad-X1-Carbon.webp",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "Ultra-light business laptop with high performance and great durability.",
+        "specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "14-inch FHD"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 12,
+        "product_title": "ASUS ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/NLwy2kG/Asus-ROG-Zephyrus-G14-4-3.jpg",
+        "category": "Laptops",
+        "price": 1499,
+        "description": "High-performance gaming laptop with NVIDIA GeForce GTX graphics.",
+        "specification": ["AMD Ryzen 9", "16GB RAM", "1TB SSD", "14-inch FHD"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 13,
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://i.ibb.co.com/fvnKK2S/microsoft-surface-laptop-4.webp",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Slim and elegant laptop with a PixelSense touchscreen and long battery life.",
+        "specification": ["Intel Core i5", "8GB RAM", "512GB SSD", "13.5-inch PixelSense"],
+        "availability": true,
+        "rating": 4.5
+      }    
+  ]  
